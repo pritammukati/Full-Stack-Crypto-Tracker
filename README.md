@@ -32,9 +32,10 @@ This is a full-stack cryptocurrency tracker built with the MERN stack. It displa
 ### 🚀 Deployment
 - **Frontend**: 1. Web Hosting & Deployment: Static Site Hosting:-Netlify
 - **Backend**: Render
-- **Database**: MongoDB Atlas
+- **Database**: MongoDB
 
----
+Live demo-https://crypto-hunter.netlify.app/
+
 
 ## 🛠️ Setup and Installation
 
