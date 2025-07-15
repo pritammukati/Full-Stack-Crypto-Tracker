@@ -30,7 +30,7 @@ This is a full-stack cryptocurrency tracker built with the MERN stack. It displa
 - [CoinGecko API](https://www.coingecko.com/en/api)
 
 ### 🚀 Deployment
-- **Frontend**: Vercel
+- **Frontend**: 1. Web Hosting & Deployment: Static Site Hosting:-Netlify
 - **Backend**: Render
 - **Database**: MongoDB Atlas
 
@@ -83,9 +83,7 @@ Schedule: 0 * * * * (runs every hour at minute 0)
 Logs are printed to the console whenever the job runs successfully or fails.
 
 🌐 Live Demo
-🔗 Frontend (React + Vercel): https://your-frontend.vercel.app
-
-🔗 Backend API (Express + Render): https://your-backend.onrender.com/api/coins
+https://crypto-hunter.netlify.app/
 
 Replace these URLs with your actual deployment links
 
@@ -103,22 +101,9 @@ crypto-tracker/
 │   ├── services/
 │   └── server.js
 └── README.md
-📸 Screenshots
-Include screenshots of:
-
-The dashboard UI
-
-Your MongoDB Atlas collections (Current & History)
-
-Console showing cron job logs
 
 🏁 Final Notes
 This project was built as a full-stack developer test for VR Automations, mimicking real-world requirements including API integration, cron automation, database modeling, and deployment. Let me know if you need the GitHub .gitignore file or bonus features like search, sort, or charting.
-
-vbnet
-Copy
-Edit
-
 
 
 
